@@ -1,0 +1,39 @@
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Hexo version: \u001b[35m3.7.1\u001b[39m","time":"2018-08-19T22:03:59.863Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Working directory: \u001b[35m~/blog/\u001b[39m","time":"2018-08-19T22:03:59.865Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Config loaded: \u001b[35m~/blog/_config.yml\u001b[39m","time":"2018-08-19T22:03:59.938Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2018-08-19T22:03:59.972Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2018-08-19T22:03:59.975Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2018-08-19T22:03:59.977Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2018-08-19T22:03:59.978Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2018-08-19T22:03:59.979Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2018-08-19T22:03:59.983Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2018-08-19T22:03:59.990Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2018-08-19T22:03:59.990Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2018-08-19T22:04:00.053Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Script loaded: \u001b[35mthemes/landscape/scripts/fancybox.js\u001b[39m","time":"2018-08-19T22:04:00.056Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":30,"msg":"Deploying: \u001b[35mgit\u001b[39m","time":"2018-08-19T22:04:00.058Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":30,"msg":"Clearing .deploy_git folder...","time":"2018-08-19T22:04:00.063Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":30,"msg":"Copying files from public folder...","time":"2018-08-19T22:04:00.075Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":30,"msg":"Copying files from extend dirs...","time":"2018-08-19T22:04:00.096Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":30,"msg":"See you again","time":"2018-08-19T22:05:11.243Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":30,"msg":"Deploy done: \u001b[35mgit\u001b[39m","time":"2018-08-19T22:05:11.251Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51022,"level":20,"msg":"Database saved","time":"2018-08-19T22:05:11.254Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Hexo version: \u001b[35m3.7.1\u001b[39m","time":"2018-08-19T22:12:03.555Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Working directory: \u001b[35m~/blog/\u001b[39m","time":"2018-08-19T22:12:03.557Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Config loaded: \u001b[35m~/blog/_config.yml\u001b[39m","time":"2018-08-19T22:12:03.632Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2018-08-19T22:12:03.661Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2018-08-19T22:12:03.663Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2018-08-19T22:12:03.664Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2018-08-19T22:12:03.666Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2018-08-19T22:12:03.667Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2018-08-19T22:12:03.670Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2018-08-19T22:12:03.677Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2018-08-19T22:12:03.678Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2018-08-19T22:12:03.740Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Script loaded: \u001b[35mthemes/landscape/scripts/fancybox.js\u001b[39m","time":"2018-08-19T22:12:03.744Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":30,"msg":"Deploying: \u001b[35mgit\u001b[39m","time":"2018-08-19T22:12:03.746Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":30,"msg":"Clearing .deploy_git folder...","time":"2018-08-19T22:12:03.754Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":30,"msg":"Copying files from public folder...","time":"2018-08-19T22:12:03.766Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":30,"msg":"Copying files from extend dirs...","time":"2018-08-19T22:12:03.788Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":30,"msg":"Bye!","time":"2018-08-19T22:16:19.965Z","v":0}
+{"name":"hexo","hostname":"HuYudeMacBook-Pro.local","pid":51136,"level":20,"msg":"Database saved","time":"2018-08-19T22:16:19.970Z","v":0}
