@@ -46,8 +46,8 @@ function setParticuleDirection (p) {
   var value = anime.random(50, 180)
   var radius = [-1, 1][anime.random(0, 1)] * value
   return {
-    x: p.x + radius * (Math.cos(angle) ** 3/2),
-    y: p.y + radius * (Math.sin(angle) ** 3/2)
+    x: p.x + radius * (Math.cos(angle) ** 3/2) * 2,
+    y: p.y + radius * (Math.sin(angle) ** 3/2) * 2
   }
 }
 
