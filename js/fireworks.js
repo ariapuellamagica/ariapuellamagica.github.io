@@ -56,7 +56,7 @@ function createParticule (x, y) {
   p.x = x
   p.y = y - 60
   p.color = colors[anime.random(0, colors.length - 1)]
-  p.radius = anime.random(16, 32)
+  p.radius = anime.random(16, 24)
   p.endPos = setParticuleDirection(p)
   p.draw = function () {
     ctx.beginPath()
