@@ -84,7 +84,7 @@ function createCircle (x, y) {
     ctx.stroke()
     ctx.globalAlpha = 1
   }
-  return p
+  return 0
 }
 
 function renderParticule (anim) {
