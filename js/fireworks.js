@@ -108,7 +108,7 @@ function animateParticules (x, y) {
       return p.endPos.y
     },
     radius: 0.1,
-    duration: anime.random(1200, 1800),
+    duration: anime.random(2000, 2800),
     easing: 'easeOutExpo',
     update: renderParticule
   })
@@ -121,7 +121,7 @@ function animateParticules (x, y) {
         easing: 'linear',
         duration: anime.random(600, 800)
       },
-      duration: anime.random(1200, 1800),
+      duration: anime.random(2000, 2800),
       easing: 'easeOutExpo',
       update: renderParticule,
       offset: 0
