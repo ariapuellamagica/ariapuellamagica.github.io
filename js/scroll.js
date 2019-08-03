@@ -40,7 +40,7 @@ $(function () {
         duration: 0
       })
     }
-  }, 50, 100))
+  }, 0, 0))
 
   // go up smooth scroll
   $('#go-up').on('click', function () {
