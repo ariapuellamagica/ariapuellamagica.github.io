@@ -15,8 +15,6 @@ $(function () {
     if (currentTop > 56) {
       if (isUp) {
         $('#page-header').hasClass('visible') ? $('#page-header').removeClass('visible') : console.log()
-      } else {
-        $('#page-header').hasClass('visible') ? console.log() : $('#page-header').addClass('visible')
       }
       $('#page-header').addClass('fixed')
       if ($('#go-up').css('opacity') === '0') {
@@ -26,7 +24,7 @@ $(function () {
           opacity: 1
         }, {
           easing: 'easeOutQuart',
-          duration: 200
+          duration: 0
         })
       }
     } else {
@@ -39,7 +37,7 @@ $(function () {
         opacity: 0
       }, {
         easing: 'linear',
-        duration: 200
+        duration: 0
       })
     }
   }, 50, 100))
